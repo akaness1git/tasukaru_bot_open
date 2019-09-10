@@ -1,0 +1,9 @@
+pandas
+gspread
+google-api-python-client
+PyDrive
+requests
+requests-oauthlib
+oauth2client
+discord.py
+urllib
